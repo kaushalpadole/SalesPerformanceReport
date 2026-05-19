@@ -1,8 +1,8 @@
-# AdventureWorks-Report
-This repository contains a comprehensive Power BI project focused on analyzing sales, products, and customer data for AdventureWorks, a global manufacturing company. The project transforms raw data into actionable insights through a multi-stage ETL and visualization process.
+# Sales Performance Report - CYKLES
+This repository contains a comprehensive Power BI project focused on analyzing sales, products, and customer data for Cykles, a global manufacturing company. The project transforms raw data into actionable insights through a multi-stage ETL and visualization process.
 
 # Business Problem 
-Adventure Works, a retail company, wants to:
+Cykles, a retail company, wants to:
 
 1. Monitor overall business performance (Revenue, Profit, Orders, Return Rate)
 2. Identify top customers and high-value segments
