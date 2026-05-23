@@ -68,24 +68,24 @@ Key DAX functions used: `CALCULATE`, `SUMX`, `DIVIDE`, `FILTER`, `ALL`, `DATESYT
 
 Built **3 interactive dashboards** and **2 AI-powered analytics pages**, all themed around the Cykles brand identity (charcoal dark background, gold + crimson accent palette, custom hexagonal logo).
 
-### Executive Dashboard
+### Executive Overview Dashboard
 <p align="center">
-  <img src="https://github.com/kaushalpadole/AdventureWorks-Report/blob/main/assets/Executive%20Dashboard.png?raw=true" width="900">
+  <img src="https://github.com/kaushalpadole/AdventureWorks-Report/blob/main/assets/Executive%20Overview.png?raw=true" width="900">
 </p>
 
-### Customer Detail Dashboard
+### Customer Insights Dashboard
 <p align="center">
-  <img src="https://github.com/kaushalpadole/AdventureWorks-Report/blob/main/assets/Customer%20Detail.png?raw=true" width="900">
+  <img src="https://github.com/kaushalpadole/AdventureWorks-Report/blob/main/assets/Customer%20Insights.png?raw=true" width="900">
 </p>
 
-### Product Detail Dashboard
+### Product Insights Dashboard
 <p align="center">
-  <img src="https://github.com/kaushalpadole/AdventureWorks-Report/blob/main/assets/Product%20Detail.png?raw=true" width="900">
+  <img src="https://github.com/kaushalpadole/AdventureWorks-Report/blob/main/assets/Product%20Insights.png?raw=true" width="900">
 </p>
 
 ### Orders Decomposition Tree
 <p align="center">
-  <img src="https://github.com/kaushalpadole/AdventureWorks-Report/blob/main/assets/Decomposition%20Trees.png?raw=true" width="900">
+  <img src="https://github.com/kaushalpadole/AdventureWorks-Report/blob/main/assets/Orders%20Decompostion.png?raw=true" width="900">
 </p>
 
 ### Key Influencers
